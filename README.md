@@ -124,19 +124,7 @@ The application helps create safer environments for women by reducing response t
 
 ---
 
-Project Screenshots
 
-Add your project screenshots here:
-
-- Home Screen
-- SOS Feature
-- Voice Trigger System
-- GPS Tracking
-- Emergency Circle
-- Evidence Vault
-- Workflow Diagram
-
----
 
 Project Demo
 
