@@ -136,8 +136,6 @@ Author
 
 Arpita Jawanjal
 
-Electrical and Electronics Engineering Student
-
 ---
 
 License
